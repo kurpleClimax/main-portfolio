@@ -75,7 +75,7 @@ const Home = () => {
                     <Box data-aos="fade-down">
                         <Heading>Hey! <span className='themeText'>I'm</span></Heading>
                         <Box className='content'>
-                            <Heading fontSize="3.3em" className='text' data-text="Atanu Karmakar"><span className='themeText'>Atanu Karmakar</span></Heading>
+                            <Heading fontSize="3.3em" className='text' data-text="Edwin "><span className='themeText'>Edwin </span></Heading>
                         </Box>
                         <Text>Am a Software Developer, passionate and experienced in building Web applications.</Text>
                         <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1jBa-w_YRCtrqAD7xrFaRw20mwkTO6QhH/view", '_blank') }}>
@@ -105,7 +105,7 @@ const Home = () => {
                                 borderRadius='full'
                                 boxSize='250px'
                                 src='/portfolio-profile-pic.png'
-                                alt='Atanu Karmakar Avatar' />
+                                alt='Edwin  Avatar' />
                             <Svg3 />
                         </Flex>
 
@@ -251,7 +251,7 @@ const Home = () => {
                             </Link>
 
                             <Link href='https://www.linkedin.com/in/atanu-karmakar-dev/' target="_blank">
-                                <Tooltip label='Atanu Karmakar'>
+                                <Tooltip label='Edwin '>
                                     <Box className='social-icons'>
                                         <Box>
                                             <Image w="100%" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt='Linkedin brand logo' />
